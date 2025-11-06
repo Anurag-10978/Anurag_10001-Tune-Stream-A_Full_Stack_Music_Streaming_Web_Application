@@ -28,11 +28,6 @@ It allows uploading, managing, and playing songs and albums with a clean and res
 
 ---
 
-## 📂 Project Structure
-
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository

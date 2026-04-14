@@ -1,4 +1,4 @@
-# 🎧 Spotify Clone – Full Stack Music Streaming Web Application
+# 🎧 Tune-Stream – Full Stack Music Streaming Web Application
 
 This project is a **Spotify-like music streaming platform** developed as part of my **MCA (Artificial Intelligence & Machine Learning)** academic project.  
 It allows uploading, managing, and playing songs and albums with a clean and responsive UI.
